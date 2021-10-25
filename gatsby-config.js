@@ -3,7 +3,7 @@ module.exports = {
     title: `Gatsby Starter Blog`,
     author: {
       name: `Jay Gordon`,
-      summary: `Friend to dogs.`,
+      summary: `Cloud Advocate at Microsoft.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
